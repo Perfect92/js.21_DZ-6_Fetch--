@@ -1,0 +1,33 @@
+{
+  "results":[
+    {
+      "name" : "Model: HSI 65",
+      "price" : 6999,
+      "img": "./img/1.jpg"
+    },
+    {
+      "name" : "Model: HSI 75",
+      "price" : 4500,
+      "img": "./img/2.jpg"
+    },
+    {
+      "name" : "Model: NSR 1110",
+      "price" : 7000,
+      "img": "./img/3.jpg"
+    },
+    {
+      "name" : "Model: GGG 1",
+      "price" : 12000,
+      "img": "./img/4.jpg"
+    },
+    {
+      "name" : "Model: KLON",
+      "price" : 5999,
+      "img": "./img/5..jpg"
+    }
+    
+  
+  ]  
+}
+
+
